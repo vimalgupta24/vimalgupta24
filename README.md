@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalgupta24&label=Profile%20views&color=0e75b6&style=flat" alt="vimalgupta24" /> </p>
 
-- 🔭 I’m currently working on [AttendLt](https://github.com/vimalgupta24/Website-Attendlt)
+- 🔭 I have currently worked on [AttendLt](https://github.com/vimalgupta24/Website-Attendlt)
 
 - 🌱 I’m currently learning **ReactJs,DSA Algorithms,Java**
 
