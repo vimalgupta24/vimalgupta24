@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vimalgupta24](https://github.com/vimalgupta24)
 
-- 📝 I regularly write articles on [https://instagram.com/_soultale?igshid=1ab0xsc9h75i1](https://instagram.com/_soultale?igshid=1ab0xsc9h75i1)
+- 📝 I regularly write articles/poetry on [(Ig)EuphoricVim](https://www.instagram.com/euphoricvim/)
 
-- 💬 Ask me about **react,C++,C,python,Html,CSS,Javascript**
+- 💬 Ask me about **react,C++,python,Html,CSS**
 
-- 📫 How to reach me **vimar4bsa@gmail.com**
+- 📫 How to reach me **vimar4bsa@gmail.com,vimalg833@gmail.com**
 
 - ⚡ Fun fact **I think I am Lazy 😅 But,I love Reading Books in my freetime though. Favorite one is 'The Alchemist By Paulo Coelho'.**
 
