@@ -26,6 +26,7 @@
 <a href="https://fb.com/vimarl2602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vimar4bsa" height="30" width="40" /></a>
 <a href="https://instagram.com/dcrazy1_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vimalgupta._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vimar4bsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vimar4bsa" height="30" width="40" /></a>
+<a href="https://leetcode.com/vimal4kh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vimar4bsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
