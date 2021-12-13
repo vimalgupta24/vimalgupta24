@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/guptavimal_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptavimal_" height="30" width="40" /></a>
+<a href="https://twitter.com/dcrazy1_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guptavimal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vimal-gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vimal-gupta" height="30" width="40" /></a>
-<a href="https://fb.com/vimar4bsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vimar4bsa" height="30" width="40" /></a>
-<a href="https://instagram.com/vimalgupta._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vimalgupta._" height="30" width="40" /></a>
+<a href="https://fb.com/vimarl2602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vimar4bsa" height="30" width="40" /></a>
+<a href="https://instagram.com/dcrazy1_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vimalgupta._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vimar4bsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vimar4bsa" height="30" width="40" /></a>
 </p>
 
