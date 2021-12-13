@@ -5,7 +5,7 @@
 
 - 🔭 I have currently worked on [AttendLt](https://github.com/vimalgupta24/Website-Attendlt)
 
-- 🌱 I’m currently learning **ReactJs,DSA Algorithms,Java**
+- 🌱 I’m currently learning **ReactJs,DSA Algorithms,C++**
 
 - 👯 I’m looking to collaborate on [AttendL-Admin-Panel](https://github.com/Attendlt/Admin-Attendlt)
 
