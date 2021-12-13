@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs,DSA Algorithms,C++**
 
-- 👯 I’m looking to collaborate on [AttendL-Admin-Panel](https://github.com/Attendlt/Admin-Attendlt)
+- 👯 I’m looking to collaborate on [(Streamlit Based)We-Got-You ](https://github.com/vimalgupta24/We-got-you)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vimalgupta24](https://github.com/vimalgupta24)
 
